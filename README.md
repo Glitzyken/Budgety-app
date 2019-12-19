@@ -1,5 +1,5 @@
 # Class-app
-These web apps were created with JavaScript by me as a class project on a course on Udemy. I was permitted to use them as my portfolio. 
+This Repo comprises of two web apps:
 
 <strong>BUDGETY:</strong> Budgety is a simple budget app that allows you to record income and expenses, calculates the net balance, calculates and displays in percentage how much each expense affects the total income, etc. 
 
