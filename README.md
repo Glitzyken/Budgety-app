@@ -1,11 +1,14 @@
-# Class-app
-This Repo comprises of two web apps:
+# Budgety
 
-<strong>BUDGETY:</strong> Budgety is a simple budget app that allows you to record income and expenses, calculates the net balance, calculates and displays in percentage how much each expense affects the total income, etc. 
+Budgety is a simple budget app that allows you to record income and expenses, calculates the net balance, calculates and displays in percentage how much each expense affects the total income, etc.
 
-NB: It has no database yet.
+Build using vanilla javascript.
 
-<strong>PIG GAME:</strong> Pig Game is an HTML game.
+# Budgety
+
+Pig Game a fun HTML game.
+
+Build using vanilla javascript.
 
 GAME RULES:
 - The game has 2 players, playing in rounds
