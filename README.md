@@ -6,7 +6,7 @@ Build using vanilla javascript.
 
 # Pig Game
 
-Pig Game a fun HTML game.
+Pig Game is a fun HTML game.
 
 Build using vanilla javascript.
 
