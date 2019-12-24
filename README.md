@@ -4,7 +4,7 @@ Budgety is a simple budget app that allows you to record income and expenses, ca
 
 Build using vanilla javascript.
 
-# Budgety
+# Pig Game
 
 Pig Game a fun HTML game.
 
